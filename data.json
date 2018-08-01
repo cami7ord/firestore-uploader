@@ -1,0 +1,13 @@
+[{
+		"myKey1": {
+			"subkey1": "string",
+			"subkey2": "string"
+		}
+	},
+	{
+		"myKey2": {
+			"subkey1": "string",
+			"subkey2": "string"
+		}
+	}
+]

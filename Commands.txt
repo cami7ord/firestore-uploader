@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/46640981/how-to-import-csv-or-json-to-firebase-cloud-firestore
+
+firebase login
+
+firebase logout
+
+firebase firestore:delete --all-collections --project vigilaw-test
